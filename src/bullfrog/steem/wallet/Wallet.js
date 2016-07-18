@@ -67,5 +67,3 @@ SteemWallet.prototype.getBlock = function(num, callback) {
 
 return SteemWallet;
 )};
-
-
