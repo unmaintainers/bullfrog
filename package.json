@@ -4,7 +4,7 @@
   "description": "Service Framework for the STEEM Blockchain",
   "main": "bullfrog.js",
   "scripts": {
-    "test": "test"
+    "test": "node ./test.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/roylaurie/bullfrog/issues"
+  },
+  "dependencies": {
+    "requirejs": "~2.2.0",
+    "node-json-rpc": "0.0.1"
   }
 }
