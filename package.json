@@ -1,7 +1,7 @@
 {
   "name": "bullfrog",
   "version": "0.0.0",
-  "description": "NodeJS API and bot for the STEEM blockchain",
+  "description": "Service Framework for the STEEM Blockchain",
   "main": "bullfrog.js",
   "scripts": {
     "test": "test"
