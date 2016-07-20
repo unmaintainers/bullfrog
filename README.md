@@ -1,2 +1,3 @@
 # bullfrog
-NodeJS API and bot for the STEEM blockchain
+
+***Service Framework for the STEEM Blockchain***
