@@ -1,0 +1,30 @@
+{
+  "name": "bullfrog",
+  "version": "0.0.0",
+  "description": "NodeJS API and bot for the STEEM blockchain",
+  "main": "bullfrog.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roylaurie/bullfrog.git"
+  },
+  "keywords": [
+    "steem",
+    "steemd",
+    "js",
+    "javascript",
+    "bot",
+    "service",
+    "api",
+    "framework",
+    "tools",
+    "blockchain"
+  ],
+  "author": "Roy Laurie <roy.laurie@asimovian.software>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roylaurie/bullfrog/issues"
+  }
+}
